@@ -10,8 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": "prince_md-uQ8DiSCB#sVntuQWpF0-Rhth7BnhZWxVjl4A-QLLLKLCN4Atv6tc"
-    },  
+      "value": "prince_md-3Yk31BAL#uzvtlWEW322ogVByk9sH0rQo3xed9fxX9kYz4-j-P-Y"},  
     
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
